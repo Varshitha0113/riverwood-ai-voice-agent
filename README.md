@@ -1,5 +1,3 @@
-# riverwood-ai-voice-agent
-AI Voice Agent prototype for Riverwood Projects Internship Challenge
 # Riverwood AI Concierge 🤖
 
 Riverwood AI Concierge is an intelligent, multi-modal web application designed to bridge the gap between users and digital tasks. By leveraging natural language processing and voice synthesis, it provides a seamless, hands-free conversational interface.
